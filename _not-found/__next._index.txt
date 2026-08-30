@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[7121,[],""]
 3:I[4581,[],""]
-:HL["/osaka-kyoto-trip/_next/static/css/58c5957747a6cf5b.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/osaka-kyoto-trip/_next/static/css/58c5957747a6cf5b.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_10d913 __variable_495377 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bIgvFWbzdsZA1z_81ni7I"}
+:HL["/osaka-kyoto-trip/_next/static/css/4fe87d1a085a040a.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/osaka-kyoto-trip/_next/static/css/4fe87d1a085a040a.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_10d913 __variable_495377 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9OJtHCHtMY4WT4KldsDEq"}
